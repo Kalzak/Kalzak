@@ -1,5 +1,5 @@
 # Welcome!
-_**Currently searching for a role as a junior solidity engineer!**_
+_**Currently searching for a role as a junior blockchain engineer!**_
 
 I'm Kalzak, a CS/CybSec grad who has taken a huge interest in the Ethereum network and smart contract programming.<br>
 Very passionable about fintech, I believe it is the future and want to get my career in fintech started so I can begin contributing to this amazing space as soon as I can!
