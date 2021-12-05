@@ -1,8 +1,8 @@
 # Welcome!
-_**Currently searching for a role as a junior blockchain engineer!**_
+_**Currently searching for a role as a junior blockchain security auditor!**_
 
-I'm Kalzak, a CS/CybSec grad who has taken a huge interest in the Ethereum network and smart contract programming.<br>
-Very passionable about fintech, I believe it is the future and want to get my career in fintech started so I can begin contributing to this amazing space as soon as I can!
+I'm Kalzak, a CS/CybSec grad who has taken a huge interest in smart contract programming and security.<br>
+Very passionate about security, I believe that blockchain has a place in the future and it needs to be secure in order for mass adoption. I hope to get started contributing in this amazing space as soon as I can!
 
 Please message me on [Twitter](https://twitter.com/kalzakdev) if you would like to get in contact with me!<br>
 Alternatively you can email me here: ![emailaddressimage](https://raw.githubusercontent.com/Kalzak/Kalzak/main/email-address-image.gif)
