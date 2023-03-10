@@ -3,7 +3,7 @@
 I'm Kalzak, a smart contract auditor with experience in both Ethereum and StarkNet.<br>
 I'm very passionate about security, I believe that blockchain has a place in the future and it needs to be secure in order for mass adoption.
 
-Please message me on [Twitter](https://twitter.com/kalzakdev) if you would like to get in contact with me!<br>
+Please message me on [Twitter](https://twitter.com/0xKalzak) if you would like to get in contact with me!<br>
 Alternatively you can email me here: ![emailaddressimage](https://raw.githubusercontent.com/Kalzak/Kalzak/main/email-address-image.gif)
 
 ## <sub>Languages/Software</sub><br>
