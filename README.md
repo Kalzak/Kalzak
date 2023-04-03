@@ -1,6 +1,6 @@
 # Welcome!
 
-Hey, I'm Kalzak, a smart contract auditor with experience in both Ethereum and StarkNet.<br>
+Hey, I'm Kalzak, a security researcher with experience in both Ethereum and StarkNet.<br>
 Currently working as a blockchain security engineer at Nethermind.<br>
 Also taking on Web3 CTF challenges, trying to be quicker and better.<br>
 Fan of EVM assembly, wrote an [EVM ERC20 implementation](https://github.com/Kalzak/evm20) with a fuzzing test suite.<br>
